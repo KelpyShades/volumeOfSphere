@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688077769 source:c:\users\kelpy\documents\code c++\volumeofsphere\main.cpp
+	<iostream>
+	<cmath>
+
